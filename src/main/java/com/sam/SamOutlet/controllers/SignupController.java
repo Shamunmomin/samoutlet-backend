@@ -18,7 +18,6 @@ import com.sam.SamOutlet.repository.UserRepository;
 import com.sam.SamOutlet.service.UserService;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
 public class SignupController {
 
 	@Autowired

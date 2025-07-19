@@ -45,7 +45,7 @@ import com.sam.SamOutlet.utils.CommonUtil;
 import jakarta.mail.MessagingException;
 import jakarta.servlet.http.HttpServletRequest;
 
-@CrossOrigin(origins = "http://localhost:4200")
+
 @RestController
 @RequestMapping("/admin")
 public class AdminController {

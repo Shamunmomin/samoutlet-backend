@@ -22,7 +22,7 @@ import com.sam.SamOutlet.utils.JwtUtil;
 import jakarta.servlet.http.HttpServletResponse;
 
 @RestController
-@CrossOrigin
+
 public class AuthenticationController {
 
 	@Autowired

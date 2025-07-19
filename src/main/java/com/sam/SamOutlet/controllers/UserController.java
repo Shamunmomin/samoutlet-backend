@@ -33,7 +33,6 @@ import com.sam.SamOutlet.service.OrderService;
 import com.sam.SamOutlet.service.ProductService;
 import com.sam.SamOutlet.service.UserService;
 
-@CrossOrigin(origins = "http://localhost:4200")
 @RestController
 @RequestMapping("/user")
 public class UserController {
